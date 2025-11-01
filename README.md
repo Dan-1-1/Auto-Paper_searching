@@ -10,7 +10,7 @@
 Automatic Literature Retrieval and Filtering: The code integrates search results from two literature retrieval platforms: Google Scholar and arXiv.
 The specific usage strategy is as follows:
 ##
-Configure the Google Scholar API key
-Set literature filtering conditions
-Configure search terms and retrieval strategy
-Configure email (if email delivery of search results is needed)
+1、Configure the Google Scholar API key
+2、Set literature filtering conditions
+3、Configure search terms and retrieval strategy
+4、Configure email (if email delivery of search results is needed)
